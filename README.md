@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Become a Junior developer
 - ⚡ fact: I love to write.
 
-### Anghami Playing 🎧
+### Now I'm listening to music 🎧
 
 <br />
 
