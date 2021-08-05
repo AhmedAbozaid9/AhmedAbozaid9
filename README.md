@@ -2,7 +2,7 @@
 
 ## I'm a Student and a Passionate developer!!
 
-- 🔭 I'm currently working on a blog, and its name will be EpicCodeCore
+- 🔭 I'm currently learning React and tons of front-end stuff
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to get to know other poeple in the field
 - 🥅 2021 Goals: Become a Junior developer
