@@ -5,7 +5,7 @@
 - 🔭 I'm currently learning React and tons of front-end stuff
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to get to know other poeple in the field
-- 🥅 2021 Goals: Become a Junior developer
+- 🥅 2022 Goals: Become a Junior developer
 - ⚡ fact: I love to write.
 
 ### I'm listening to music right now 🎧
