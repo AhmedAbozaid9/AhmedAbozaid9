@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed, and this is [My website](https://ahmadabozaid.com/) 👋
+# Hi there, I'm Ahmed, and this is [My website](https://ahmed-abozaid.com/) 👋
 
 ## I'm a Student and a Passionate developer!!
 
