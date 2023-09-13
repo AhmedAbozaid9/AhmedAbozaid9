@@ -11,5 +11,3 @@
 <img src="https://myreadme.vercel.app/api/embed/ahmedabozaid9?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <h1 align="center">My Best Projects :</h1>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedabozaid9&repo=movique)](https://github.com/AhmedAbozaid9/movique)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedabozaid9&repo=Devvio)](https://github.com/AhmedAbozaid9/Devvio)
