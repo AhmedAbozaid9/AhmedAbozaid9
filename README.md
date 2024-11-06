@@ -8,6 +8,7 @@
 <h1 align="center">Here's What You Should Expect to Find Here :</h1>
 <h3 align="center"> Front End 🖥️ | Data Analysis 📈 | React JS ⚡| Python🐍 | A Dead Passion for game Dev ✨ </h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAbozaid9&theme=tokyonight" alt="mystreak"/>
+</p>
 <h1 align="center">My Best Projects :</h1>
